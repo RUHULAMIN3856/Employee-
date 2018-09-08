@@ -1,0 +1,10 @@
+static void Main(string[] args)
+        {
+            string Name;
+            Console.Write("\nInput Name :\n-------------\n ");
+            Name = Console.ReadLine();
+            Console.WriteLine("Your Name is : \n"+Name);
+           
+            Console.ReadLine();
+        }
+    }
